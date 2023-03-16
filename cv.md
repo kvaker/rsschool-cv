@@ -40,7 +40,8 @@ Education
 
 Work experience
 -----------
-2008-present: **Media and Design**; magazine "VB"    
+2008-present
+:   **Media and Design**; magazine "VB"    
 
 
 Project
