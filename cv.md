@@ -52,3 +52,4 @@ Languages
 -----------
 
      * English (Intermediate: good theoretical knowledge, practical skills)
+     * German (А1)
